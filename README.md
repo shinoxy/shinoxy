@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello everyone!
 
-<!--
-**shinoxy/shinoxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif"/>
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :raising_hand_woman: Viktoria Shchepeleva
+- :round_pushpin: Nizhny Novgorod, Russia
+- :woman_student: Bachelor: Business Management, HSE
+- :woman_technologist: Student: Backend Development, School 21
+- :earth_africa: Russian (native), English (B2)
+
+## Hard Skills
+
+- Linux (Ubuntu), IOS, Windows
+- Git, GitHub, Gitlab
+- C, Python
+
+## Contacts
+
+ [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sshinoxy@gmail.com)
+ [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shinoxy)
