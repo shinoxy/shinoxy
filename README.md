@@ -19,6 +19,5 @@
 
 ## Contacts
 
-<a href="mailto:sshinoxy@gmail.com">sshinoxy@gmail.com</a>
  [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sshinoxy@gmail.com)
  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shinoxy)
