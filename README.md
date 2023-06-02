@@ -15,7 +15,9 @@
 
 - Linux (Ubuntu), IOS, Windows
 - Git, GitHub, Gitlab  
-- C, Python, Bash scripts
+- C, Python
+- Bash scripts
+- SQL
 
 ## Soft Skills
 
