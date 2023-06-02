@@ -13,9 +13,9 @@
 
 ## Hard Skills
 
-- Linux (Ubuntu), IOS, Windows  
+- Linux (Ubuntu), IOS, Windows
 - Git, GitHub, Gitlab  
-- C, Python  
+- C, Python, Bash scripts
 
 ## Soft Skills
 
