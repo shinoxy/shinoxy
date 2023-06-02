@@ -5,24 +5,24 @@
 
 ## About me
 
-- :raising_hand_woman: Viktoria Shchepeleva
-- :round_pushpin: Nizhny Novgorod, Russia
-- :woman_student: Bachelor: Business Management, HSE
-- :woman_technologist: Student: Backend Development, School 21
-- :earth_africa: Russian (native), English (B2)
+- :raising_hand_woman: Viktoria Shchepeleva  
+- :round_pushpin: Nizhny Novgorod, Russia  
+- :woman_student: Bachelor: Business Management, HSE  
+- :woman_technologist: Student: Backend Development, School 21  
+- :earth_africa: Russian (native), English (B2)  
 
 ## Hard Skills
 
-- Linux (Ubuntu), IOS, Windows
-- Git, GitHub, Gitlab
-- C, Python
+- Linux (Ubuntu), IOS, Windows  
+- Git, GitHub, Gitlab  
+- C, Python  
 
 ## Soft Skills
 
 - Lifelong learning  
-- Able to achieve the set goals.  
+- Able to achieve the set goals  
 - Consider myself a purposeful, communicative and positive person  
-- Approach new and interesting tasks responsibly and enthusiastically.  
+- Approach new and interesting tasks responsibly and enthusiastically  
 
 ## Contacts
 
