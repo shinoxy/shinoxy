@@ -23,7 +23,7 @@
 
 - Lifelong learning  
 - Able to achieve the set goals  
-- Consider myself a purposeful, communicative and positive person  
+- Purposeful, communicative and positive person  
 - Approach new and interesting tasks responsibly and enthusiastically  
 
 ## Contacts
