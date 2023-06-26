@@ -1,6 +1,6 @@
 # Hello everyone!
 <div id="header" align="center">
-  <script src="https://gist.github.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40.js"></script>
+  <img src="https://gist.github.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40.js"/>
 </div>
 
 ## About me
