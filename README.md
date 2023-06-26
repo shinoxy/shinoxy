@@ -1,6 +1,6 @@
 # Hello everyone!
 <div id="header" align="center">
-  <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif"/>
+  <script src="https://gist.github.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40.js"></script>
 </div>
 
 ## About me
