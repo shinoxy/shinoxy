@@ -7,7 +7,7 @@
 
 - :raising_hand_woman: Viktoria Shchepeleva  
 - :round_pushpin: Nizhny Novgorod, Russia  
-- :woman_student: Bachelor: Business Management, HSE  
+- :woman_student: Graduate: Business Management, HSE  
 - :woman_technologist: Student: Backend Development, School 21  
 - :earth_africa: Russian (native), English (B2)  
 
