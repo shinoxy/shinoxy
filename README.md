@@ -13,10 +13,11 @@
 
 ## Hard Skills
 
-- Linux (Ubuntu), IOS, Windows
-- Git, GitHub, Gitlab  
-- C, Python
+- Linux (Ubuntu), MacOS, Windows
+- Git, GitHub, GitLab  
+- C, C++, Python
 - Bash scripts
+- Docker
 - SQL
 
 ## Soft Skills
