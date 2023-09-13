@@ -7,9 +7,9 @@
 
 :raising_hand_woman: Viktoria Shchepeleva  
 :round_pushpin:  Nizhny Novgorod, Russia  
-:briefcase: System analyst/business analyst  
 :woman_student: Graduate: Business Management, HSE  
 :woman_technologist: Student: Backend Development, School 21  
+:briefcase: System analyst/business analyst  
 :earth_africa: Russian (native), English (B2)  
 
 ## Hard Skills
