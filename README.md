@@ -22,6 +22,7 @@
 - SQL
 - BPMN 2.0
 - Apache NiFi
+- Documentation
 
 ## Soft Skills
 
