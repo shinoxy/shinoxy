@@ -9,17 +9,19 @@
 :round_pushpin:  Nizhny Novgorod, Russia  
 :woman_student: Graduate: Business Management, HSE  
 :woman_technologist: Student: Backend Development, School 21  
-:briefcase: System analyst/business analyst  
+:briefcase: System analyst
 :earth_africa: Russian (native), English (B2)  
 
 ## Hard Skills
 
 - Linux (Ubuntu), MacOS, Windows
-- Git, GitHub, GitLab  
-- C, C++, Python
+- Git
+- C, C++
 - Bash scripts
 - Docker
 - SQL
+- BPMN 2.0
+- Apache NiFi
 
 ## Soft Skills
 
