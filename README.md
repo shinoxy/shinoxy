@@ -1,6 +1,6 @@
 # Hello everyone!
 <div id="header" align="center">
-  <a href="https://youtu.be/poa_QBvtIBA"> <img src="https://gist.github.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif"/> </a>
+  <a href="https://youtu.be/poa_QBvtIBA"> <img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-286.gif"/> </a>
 </div>
 
 ## About me
