@@ -7,9 +7,9 @@
 
 :raising_hand_woman: Viktoria Shchepeleva  
 :round_pushpin:  Nizhny Novgorod, Russia  
-:woman_student: Graduate: Business Management, HSE  
-:woman_technologist: Student: Backend Development, School 21  
-:briefcase: System analyst
+:woman_student: Graduate: HSE, Business Management
+:woman_technologist: Student: School 21, Programming
+:briefcase: Aston, System analyst
 :earth_africa: Russian (native), English (B2)  
 
 ## Hard Skills
@@ -17,11 +17,11 @@
 - Linux (Ubuntu), MacOS, Windows
 - Git
 - C, C++
-- Bash scripts
+- Bash
 - Docker
 - SQL
 - BPMN 2.0
-- Apache NiFi
+- API
 - Documentation
 
 ## Soft Skills
