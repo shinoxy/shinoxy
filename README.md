@@ -7,9 +7,9 @@
 
 :raising_hand_woman: Viktoria Shchepeleva  
 :round_pushpin:  Nizhny Novgorod, Russia  
-:woman_student: Graduate: HSE, Business Management
-:woman_technologist: Student: School 21, Programming
-:briefcase: Aston, System analyst
+:woman_student: Graduate: HSE, Business Management  
+:woman_technologist: Student: School 21, Programming  
+:briefcase: Aston, System analyst  
 :earth_africa: Russian (native), English (B2)  
 
 ## Hard Skills
