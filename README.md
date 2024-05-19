@@ -9,7 +9,7 @@
 :round_pushpin:  Nizhny Novgorod, Russia  
 :woman_student: Graduate: HSE, Product Management  
 :woman_technologist: Student: School 21, Programming  
-:briefcase: Aston, System analyst  
+:briefcase: Sber, System analyst  
 :earth_africa: Russian (native), English (B2)  
 
 ## Hard Skills  
