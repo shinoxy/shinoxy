@@ -7,7 +7,7 @@
 
 :raising_hand_woman: Victoria Gaist  
 :round_pushpin:  Belgrade, Serbia  
-:woman_student: Graduate: Higher School of Economics, School 21
+:woman_student: Graduate: Higher School of Economics, School 21  
 :briefcase: PLATA, senior SA  
 :earth_africa: Russian (native), English (B2)  
 
