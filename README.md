@@ -8,12 +8,12 @@
 :raising_hand_woman: Victoria Gaist  
 :round_pushpin:  Belgrade, Serbia  
 :woman_student: Graduate: Higher School of Economics, School 21  
-:briefcase: PLATA, senior SA  
+:briefcase: System analyst at PLATA Banco
 :earth_africa: Russian (native), English (B2)  
 
 ## Hard Skills  
 
-- Architecture design
+- Architecture & system design
 - REST API, Kafka, gRPC, ESB
 - SQL, no-SQL DB
 - BPMN, UML, C4
