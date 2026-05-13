@@ -5,10 +5,10 @@
 
 ## About me  
 
-:raising_hand_woman: Victoria Gaist
-:round_pushpin:  Belgrade, Serbia
-:woman_student: Graduate: HSE, School 21
-:briefcase: PLATA, senior SA
+:raising_hand_woman: Victoria Gaist  
+:round_pushpin:  Belgrade, Serbia  
+:woman_student: Graduate: HSE, School 21  
+:briefcase: PLATA, senior SA  
 :earth_africa: Russian (native), English (B2)  
 
 ## Hard Skills  
