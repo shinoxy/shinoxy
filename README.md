@@ -1,35 +1,31 @@
-# Hello everyone!
+# Hello there
 <div id="header" align="center">
   <a href="https://youtu.be/poa_QBvtIBA"> <img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-286.gif"/> </a>
 </div>
 
 ## About me  
 
-:raising_hand_woman: Viktoria Shchepeleva  
-:round_pushpin:  Nizhny Novgorod, Russia  
-:woman_student: Graduate: HSE, Product Management  
-:woman_technologist: Student: School 21, Programming  
-:briefcase: Sber, System analyst  
+:raising_hand_woman: Victoria Gaist
+:round_pushpin:  Belgrade, Serbia
+:woman_student: Graduate: HSE, School 21
+:briefcase: PLATA, senior SA
 :earth_africa: Russian (native), English (B2)  
 
 ## Hard Skills  
 
-- Linux (Ubuntu), MacOS, Windows  
-- Git  
-- C, C++  
-- Bash  
+- Architecture design
+- REST API, Kafka, gRPC, ESB
+- SQL, no-SQL DB
+- BPMN, UML, C4
+- Git
+- C, C++
 - Docker, CI/CD  
-- PostgreSQL, MySQL  
-- BPMN, UML  
-- REST, SOAP API  
-- Apache Kafka  
 
 ## Soft Skills
 
 - Effective communicator  
 - Responsible and proactive person  
 - Lifelong learning
-- Proficient in expressing my thoughts clearly  
 
 ## Contacts
 
